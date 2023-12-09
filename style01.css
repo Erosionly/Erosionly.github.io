@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 楷体,隶书,黑体,sans-serif;
+}
+header {
+    background-image: url(./img/ftk.jpg);
+    background-color: #333;          
+    color: #fff;            
+    padding: 20px;            
+    text-align: center;        
+    }           
+main {            
+    padding: 10px;     
+    background-color: aliceblue;
+    }        
+footer {            
+    background-color: #333;            
+    color: #fff;            
+    padding: 10px;            
+    text-align: center;      
+    }  
+h1{
+        text-align: center;
+        font-size: 25px;
+    } 
+p{
+    text-align: center;
+}    
+a{
+    text-decoration: none;
+    color: black;
+}
+.ym{
+    width: 100%;
+    height: 100%;
+}
+.s{
+    font-size: 25px;
+    font-weight: 700;
+    position: absolute;
+   top: 50%;
+   left: 45%;
+    font-family: 楷体,隶书,幼圆,华文楷体,黑体,sans-serif;
+}
+.db{
+    margin: 5px;
+    font-size: 20px;
+    font-family: 楷体,隶书,黑体,sans-serif;
+    text-align: center;
+}
+.db a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    margin: 25px;
+
+}
+.tx{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    overflow: hidden;
+    margin: 0 auto;
+    position:relative;
+    }
+.ero{
+        text-align: center;
+        font-size: 35px;
+        font-family: 隶书,楷体,黑体,sans-serif;
+        font-weight: 700;
+    }
+.wb{
+    width: 15em;
+    height: auto;
+    background-color: white;
+    margin: 15px;
+}
+.wb p{
+    text-indent: 2em;
+    text-align: left;
+}
+.f{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    height: auto;
+}
+.an{
+   top: 65%;
+   left: 50%;
+   font-size: 20px;
+    font-family: 楷体,隶书,幼圆,华文楷体,黑体,sans-serif;
+    
+}
